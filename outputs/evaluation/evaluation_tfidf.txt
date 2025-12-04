@@ -1,0 +1,97 @@
+EVALUATION RESULTS - TFIDF
+================================================================================
+
+Mean Precision@10: 0.780
+Mean MRR: 1.000
+Mean Query Time: 314.13 ms
+
+
+============================================================
+Query 1: oil price market
+============================================================
+1. [Score: 0.4648] Oil prices stable as market seen bottoming but oversupply linger
+2. [Score: 0.4365] oil prices resume decline in asi
+3. [Score: 0.4224] brent crude steady around 50
+4. [Score: 0.4223] us oil prices slip below 50 a barr
+5. [Score: 0.4147] oil prices swing wildly in china uncertainty
+
+============================================================
+Query 2: pakistan government economic
+============================================================
+1. [Score: 0.3161] WB president for Pakistan to invest in people to boost economy
+2. [Score: 0.2938] Major challenges of economic revival grasped Dar
+3. [Score: 0.2758] CPECs first phase to be completed by 2018 Ahsan Iqb
+4. [Score: 0.2543] WB acknowledges Pakistans growing economy
+5. [Score: 0.2501] PML N govt turned around Pakistans economy in 3 years PM
+
+============================================================
+Query 3: stock market trading
+============================================================
+1. [Score: 0.3506] Pakistan stocks fall 2 pct Brexit volatility
+2. [Score: 0.3228] US Ambassador rings trading bell Stock Exchang
+3. [Score: 0.2991] china stock market freezing up as sell off gathers 
+4. [Score: 0.2847] free fall continues as kse 100 plummets 1000 poi
+5. [Score: 0.2827] dollar reaches 17 month high against ru
+
+============================================================
+Query 4: cricket england test match
+============================================================
+1. [Score: 0.4822] Misbah England series tests Pakistan cri
+2. [Score: 0.4202] Fight till the last ball Imran advises national cricket 
+3. [Score: 0.4125] Woakes replaces injured Stokes England squad second test Sri L
+4. [Score: 0.3896] England reach for the whitewash against Sri L
+5. [Score: 0.3779] England to begin Test series in India at new venue Raj
+
+============================================================
+Query 5: hong kong asia market
+============================================================
+1. [Score: 0.5103] hong kong stocks open 0.24 percent higher
+2. [Score: 0.5003] hong kong stocks open 0.70 percent higher
+3. [Score: 0.4804] hong kong stocks open 0.66 percent lower
+4. [Score: 0.4516] Hong Kong stocks rise at 
+5. [Score: 0.4238] Hong Kong make 127 7 after bad start against S
+
+============================================================
+Query 6: karachi sindh transport
+============================================================
+1. [Score: 0.4839] Iran offers to provide buses for public transport sy
+2. [Score: 0.3874] sindh govt decides to cut public transport fares by 7pc kti rej
+3. [Score: 0.2844] Sindh CM Murad Ali Shah World Bank finance Karachi mega proj
+4. [Score: 0.2646] Sindh Revenue to bring insurances services to tax 
+5. [Score: 0.2450] Problems of rice exporters to be solved Governor Sind
+
+============================================================
+Query 7: saudi arabia oil production
+============================================================
+1. [Score: 0.4967] Oil dips Asia Saudi Arabia output boost repor
+2. [Score: 0.4967] Oil dips Asia Saudi Arabia output boost repor
+3. [Score: 0.4483] oil hits new 5.5 year lows as saudis defend 
+4. [Score: 0.4291] Saudi says committed to oil market stability
+5. [Score: 0.4291] Saudi says committed to oil market stability
+
+============================================================
+Query 8: india pakistan relations
+============================================================
+1. [Score: 0.2463] Pakistan keen to expand trade and economic cooperation with Portugal NA Speaker
+2. [Score: 0.2318] Pakistan T20 squad leaves for India after security assur
+3. [Score: 0.2279] Pakistan ousted by India in Azlan Shah hockey
+4. [Score: 0.2270] Pak cricket team allowed to travel to India for World T20
+5. [Score: 0.2242] T20 WC Pakistan refuses to play against India in Dhar
+
+============================================================
+Query 9: dollar rupee currency exchange
+============================================================
+1. [Score: 0.4881] rupee hits 104 at open market sbp warns money changer
+2. [Score: 0.4534] dollar reaches 17 month high against ru
+3. [Score: 0.4427] rupee sinks to fresh two year low against dollar
+4. [Score: 0.2974] Tax target achieved foreign exchange reserves cross 23bln mark Dar
+5. [Score: 0.2617] dollar dominance global currency
+
+============================================================
+Query 10: security terrorism attack
+============================================================
+1. [Score: 0.2134] Pakistan security team in India to assess WT20 security arrang
+2. [Score: 0.1954] Pak security team to submit its report on Wednesday
+3. [Score: 0.1801] Rashid Latif offers coaching services for SSU 
+4. [Score: 0.1726] T20 WC Pakistan refuses to play against India in Dhar
+5. [Score: 0.1703] SBP freezes bank accounts of Rs1 bn over terror funding charg

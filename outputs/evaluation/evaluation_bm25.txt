@@ -1,0 +1,97 @@
+EVALUATION RESULTS - BM25
+================================================================================
+
+Mean Precision@10: 0.780
+Mean MRR: 0.875
+Mean Query Time: 308.38 ms
+
+
+============================================================
+Query 1: oil price market
+============================================================
+1. [Score: 8.1180] oil prices fall as iea predicts weak rebound
+2. [Score: 8.1156] Oil prices stable as market seen bottoming but oversupply linger
+3. [Score: 8.0714] oil prices resume decline in asi
+4. [Score: 8.0247] US crude oil prices approach 20 pc fall since beginning of 2016
+5. [Score: 8.0067] Kuwait UAE welcome Saudi Russian oil cooperati
+
+============================================================
+Query 2: pakistan government economic
+============================================================
+1. [Score: 7.5103] Major challenges of economic revival grasped Dar
+2. [Score: 7.3353] WB president for Pakistan to invest in people to boost economy
+3. [Score: 7.3218] PM says CPEC to bring economic revolution in Paki
+4. [Score: 7.2280] Government to establish sports university Dar
+5. [Score: 7.1610] WB acknowledges Pakistans growing economy
+
+============================================================
+Query 3: stock market trading
+============================================================
+1. [Score: 10.5420] US Ambassador rings trading bell Stock Exchang
+2. [Score: 10.3284] Pakistan stocks fall 2 pct Brexit volatility
+3. [Score: 10.1431] kse 100 plummets over 1000 points in intra day trading
+4. [Score: 10.1185] dollar reaches 17 month high against ru
+5. [Score: 10.0897] free fall continues as kse 100 plummets 1000 poi
+
+============================================================
+Query 4: cricket england test match
+============================================================
+1. [Score: 10.4742] Fight till the last ball Imran advises national cricket 
+2. [Score: 10.4663] Misbah England series tests Pakistan cri
+3. [Score: 10.2344] DayNight Test in England moves closer with tri
+4. [Score: 10.2148] Pakistan cricket team leaves for England
+5. [Score: 10.0797] Woakes replaces injured Stokes England squad second test Sri L
+
+============================================================
+Query 5: hong kong asia market
+============================================================
+1. [Score: 16.0197] Oil plunge fuels run on energy firms as Asia stocks tumb
+2. [Score: 15.6633] asia shares mostly up china data disappoi
+3. [Score: 15.6554] most asia markets bounce from losses tokyo sinks on retur
+4. [Score: 15.0674] Hong Kong make 127 7 after bad start against S
+5. [Score: 14.5179] China Hong Kong shares firm as export growth raises hopes for GDP
+
+============================================================
+Query 6: karachi sindh transport
+============================================================
+1. [Score: 19.9785] sindh govt decides to cut public transport fares by 7pc kti rej
+2. [Score: 16.2832] Iran offers to provide buses for public transport sy
+3. [Score: 13.0292] Sindh CM discusses CPEC projects with Chinese envoy
+4. [Score: 11.7181] Sale of CNG in litres illegal in Sindh OGRA
+5. [Score: 11.7181] Sale of CNG in litres illegal in Sindh OGRA
+
+============================================================
+Query 7: saudi arabia oil production
+============================================================
+1. [Score: 18.3242] Saudi says committed to oil market stability
+2. [Score: 18.3242] Saudi says committed to oil market stability
+3. [Score: 18.2113] Oil dips Asia Saudi Arabia output boost repor
+4. [Score: 18.2113] Oil dips Asia Saudi Arabia output boost repor
+5. [Score: 17.9777] Saudi Iran split dashes chance of OPEC deal to curb oil glu
+
+============================================================
+Query 8: india pakistan relations
+============================================================
+1. [Score: 10.4419] Mani wants PCB to pull out of their World T20 match against Indi
+2. [Score: 9.5568] Pakistan keen to expand trade and economic cooperation with Portugal NA Speaker
+3. [Score: 9.4129] India speed up hydropower building rivers flowing Paki
+4. [Score: 8.4777] Pak cricket team allowed to travel to India for World T20
+5. [Score: 8.4606] PM Nawaz proposes establishment of Pakistan Kuwait joint business counci
+
+============================================================
+Query 9: dollar rupee currency exchange
+============================================================
+1. [Score: 20.3183] rupee hits 104 at open market sbp warns money changer
+2. [Score: 18.0872] dollar reaches 17 month high against ru
+3. [Score: 16.3352] rupee sinks to fresh two year low against dollar
+4. [Score: 15.6269] pak rupee to remain stable sb
+5. [Score: 14.2481] Tax target achieved foreign exchange reserves cross 23bln mark Dar
+
+============================================================
+Query 10: security terrorism attack
+============================================================
+1. [Score: 12.8734] Rashid Latif offers coaching services for SSU 
+2. [Score: 12.8085] Brazil probes Olympics threats after group backs Islamic S
+3. [Score: 11.6023] SBP freezes bank accounts of Rs1 bn over terror funding charg
+4. [Score: 9.7303] State Bank issues guidelines against cyber attacks Paki
+5. [Score: 9.3352] Brazil arrests 10 for amateur terror plot against Olympi
