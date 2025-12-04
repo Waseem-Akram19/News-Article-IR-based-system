@@ -48,8 +48,7 @@ This project implements a complete IR pipeline that:
 ### Step 1: Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/cs516_hw3.git
-cd cs516_hw3
+https://github.com/Waseem-Akram19/News-Article-IR-based-system.git
 ```
 
 ### Step 2: Create Virtual Environment
@@ -320,23 +319,6 @@ python src/search.py --method bm25 --index indexes/bm25.pkl --processed data/pro
 python src/search.py --method bm25 --index indexes/bm25.pkl --processed data/processed.pkl --query "stock market" --k 10 > my_results.txt
 ```
 
-## 🐛 Troubleshooting
-
-### Issue: "File not found" error
-**Solution:** Ensure you've run preprocessing and indexing steps before searching. Check that files exist in `data/` and `indexes/` directories.
-
-### Issue: Slow first query
-**Solution:** This is normal. NLTK downloads data on first run. Subsequent queries will be fast (~10ms).
-
-### Issue: "Module not found" error
-**Solution:** Activate your virtual environment and run `pip install -r requirements.txt`
-
-### Issue: Unicode/encoding errors with dataset
-**Solution:** Ensure `Articles.csv` is in ISO-8859-1 encoding. The code handles this automatically, but verify your CSV file.
-
-### Issue: Out of memory
-**Solution:** If processing very large datasets (100K+ docs), consider batch processing or increase system RAM.
-
 ## 📝 Notes
 
 - **First run** takes longer due to NLTK data download (~50MB)
@@ -357,8 +339,8 @@ This project is submitted as coursework for CS 516 at ITU. Please do not copy or
 
 ## 👨‍💻 Author
 
-**[Your Name]**  
-Roll Number: [Your Roll Number]  
+**Waseem Akram**  
+Roll Number: MSCS23003  
 Course: CS 516 - Information Retrieval and Text Mining  
 Institution: Information Technology University (ITU)  
 Semester: Fall 2025
@@ -368,9 +350,8 @@ Semester: Fall 2025
 - Dr. Ahmad Mustafa (Course Instructor)
 - rank-bm25 library by Dorian Brown
 - scikit-learn and NLTK communities
-- Claude AI for code assistance and debugging (see Technical Report for disclosure)
 
 ---
 
 **Last Updated:** November 30, 2025  
-**Assignment:** Homework 3 - Information Retrieval System Design
+**Assignment:** Information Retrieval System Design
